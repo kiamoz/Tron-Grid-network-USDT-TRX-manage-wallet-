@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "de39541f-fb55-414e-b4f7-911039b4a3b2",
+		"name": "TRON",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "8918599",
+		"_collection_link": "https://red-astronaut-213918.postman.co/workspace/sms~196fa18f-7d30-4729-b69a-9bd4d3fc1859/collection/8918599-de39541f-fb55-414e-b4f7-911039b4a3b2?action=share&source=collection_link&creator=8918599"
+	},
+	"item": [
+		{
+			"name": "new-wallet",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "send-trx",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "balance-trx",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "balance-trc20-usd",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "send-trc20-usdt",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
